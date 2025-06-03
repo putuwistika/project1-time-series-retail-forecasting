@@ -172,20 +172,6 @@ sales-forecasting/
 ---
 
 
-## 👥 **Team**
-
-**Synergy Team - Project 1**
-
-| Role | Name | Contribution |
-|------|------|--------------|
-| 🧠 **Data Scientist** | I Putu Ferry Wistika | LSTM Development & Deep Learning |
-| 🤖 **Data Scientist** | Lukas Yuliyanto Gunawan | SARIMA Modeling & Statistical Analysis |
-| 📊 **Data Scientist** | Haikal Firdaus | EDA & Data Preprocessing |
-| 🔧 **Business Analyst** | Muhammad Egalingga Zainuri | Business Impact & Implementation |
-| 📈 **Business Analyst** | Adhi Kurniawan | Business Impact & Implementation |
-
----
-
 ## 🔬 **Technical Details**
 
 ### 📊 **Model Specifications**
