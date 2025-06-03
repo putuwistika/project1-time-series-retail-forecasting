@@ -36,7 +36,7 @@ Proyek ini mengembangkan sistem prediksi penjualan untuk kategori produk **GROCE
 | Model | MAPE (%) | MAE | RMSE | MASE |
 |-------|----------|-----|------|------|
 | **LSTM** | **4.89** | **3,008** | **5,457** | **0.215** |
-| SARIMA | 6.23 | 3,421 | 6,012 | 0.287 |
+| SARIMA | 12.69 | 7680.94 | 14003.35 | 0.550  |
 
 ---
 
