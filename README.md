@@ -230,10 +230,8 @@ Batch Size: 1
 ```
 ✅ LSTM Model Results:
    • MAPE: 4.89% (Target: ≤15%)
-   • Accuracy: 95.1%
    • MAE: 3,008 units
    • RMSE: 5,457 units
-   • Training Time: ~15 minutes
 ```
 
 ### 📈 **Business Validation**
