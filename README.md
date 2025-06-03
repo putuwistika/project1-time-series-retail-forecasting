@@ -148,11 +148,8 @@ scipy >= 1.7.0
 ### ▶️ **Quick Start**
 ```python
 # 1. Clone repository
-git clone https://github.com/your-repo/sales-forecasting.git
-cd sales-forecasting
-
-# 2. Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/putuwistika/project1-time-series-retail-forecasting.git
+cd project1-time-series-retail-forecasting
 
 # 3. Run Jupyter notebook
 jupyter notebook Sales_Forecasting_SARIMA_LSTM.ipynb
